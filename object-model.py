@@ -30,3 +30,6 @@ subject_info = s1.show_info()
 
 st = Student("Azamatov", "Amantur", 18)
 student_info = st.get_student_info()
+print(diary_info)
+print(subject_info)
+print(student_info)
